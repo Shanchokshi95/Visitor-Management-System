@@ -1,0 +1,4 @@
+security_name,gate_number ,shift,duty_time
+jay,Gate No.1,Morning,00:00:00
+yash,Gate No.2,Morning,00:00:00
+deep,Gate No.3,Night,00:00:00
